@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Shader binaries
+*.bin
+*.cso
+*.dxbc
+*.dxil
+*.spv
+
+# Generated HLSL
+*.hlsl
+!tools/*.hlsl
